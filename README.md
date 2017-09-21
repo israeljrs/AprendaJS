@@ -20,6 +20,7 @@ que compõe o universo de um programador nessa linguagem.
 
 ### Links Úteis.
 
+- [Dicas e Truques](https://github.com/israeljrs/AprendaJS/blob/master/tips/tips_and_tricks.md)
 - [JSFeatures](https://jsfeatures.in/)
 
 

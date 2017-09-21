@@ -1,6 +1,6 @@
 # Dicas e trucks.
 
-Aqui temos uma lista de algumas dicas e trucks uteis em JavaScript.
+Aqui temos uma lista de algumas dicas e trucks úteis em JavaScript.
 
 ## Funções imediatas em JavaScript.
 
