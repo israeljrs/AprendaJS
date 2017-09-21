@@ -1,9 +1,9 @@
 # AprendaJS
-## JavaScript de forma simples e fácil.
+## Aprendendo a programar em JavaScript.
 
 AprendaJS, e uma iniciativa livre de compartilhamento e divulgação
-da linguagem JavaScript em português e todo o ecosistema que 
-compõe esse universo.
+da linguagem JavaScript em português e também de todo o ecosistema
+que compõe o universo de um programador nessa linguagem.
 
 ### AprendaJS na midia.
 
